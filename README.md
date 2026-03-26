@@ -13,7 +13,7 @@
 ---
 
 # 💫 About Me:
-Hi, I'm **Shanzster** — an IT student focused on building **efficient, scalable backend systems**.
+Hi, I'm **Shanzster** — an IT person focused on building **efficient, scalable backend systems**.
 
 - 🧠 Currently learning: **System Design & Backend Architecture**
 - ⚙️ Focus: **APIs, Databases, Server-side Logic**
